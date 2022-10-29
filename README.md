@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junior Front-End Developer from Russia.
+I'm Front-End Developer from Russia.
 - Currently i'm focused on Web Development learning 👀.
 - My achievements in other fields:
   - :mortar_board: Bachelor's qualification in infocommunication technologies and communication systems.
