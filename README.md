@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Front-End Developer from Russia.
-- Currently i'm focused on Web Development learning 👀.
+I'm Software Developer.
+- Currently i'm focused on Web Development 👀.
 - My achievements in other fields:
   - :mortar_board: Bachelor's qualification in infocommunication technologies and communication systems.
   - :mortar_board: Master's qualification in information security.
